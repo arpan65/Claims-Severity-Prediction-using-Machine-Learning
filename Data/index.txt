@@ -1,1 +1,2 @@
-Train and Test Data Set
+Download data set from here:
+https://www.kaggle.com/c/allstate-claims-severity/data

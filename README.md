@@ -6,6 +6,7 @@ In the life-cycle of insurance, when the insured incurred a loss and notify the 
 
 ## Files Included
 Data - contains Allstate claims data (https://www.kaggle.com/c/allstate-claims-severity)
+
 Notebook - ipython notebook, contains the source code for data exploration, feature engineering and modeling techniques
 
 ## License

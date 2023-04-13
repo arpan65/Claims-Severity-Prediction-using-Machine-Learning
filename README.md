@@ -12,6 +12,7 @@ For example, if a claim is severe it can be assigned to an experienced claim han
 ## Business-ML Problem Mapping
 
 We can map this problem with a Regression problem of machine Learning, where we will predict the cost that may occur in the claim and based on the predicted cost we can segment the claim's severity
+
 Machine Learning Problem Class: Regression
 Problem Statement: Predict the severity class of the claim based on probable cost
 ![image](https://user-images.githubusercontent.com/25381042/175468466-a1c8ca2a-3da7-4ea0-8361-e03feefb0f03.png)
